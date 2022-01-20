@@ -1,9 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Envia One
-- 🌱 I’m currently learning Reach
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning REACT
 - 📫 Reach me at: https://www.linkedin.com/in/topete/
 
 <!--
