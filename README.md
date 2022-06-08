@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [carlostopete.me](carlostopete.me)
+- 👨‍💻 All of my projects are available at [https://carlostopete.me](carlostopete.me)
 
 - 📝 I regularly write articles on [https://chtopete.medium.com/](https://chtopete.medium.com/)
 
